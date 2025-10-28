@@ -7,6 +7,7 @@
     },
     "python.defaultInterpreterPath": "/home/bien/.local/share/mise/installs/python/3.13.7/bin/python",
     "go.alternateTools": {
-        "go": "/home/bien/.local/share/mise/shims/go"
+        "go": "/home/bien/.local/share/mise/shims/go",
+        "gopls": "/home/bien/.local/share/mise/shims/gopls"
     }
 }

@@ -1,0 +1,5 @@
+[tasks]
+download-openapi = "curl -o openapi.yaml https://raw.githubusercontent.com/zaproxy/zap-api-docs/main/openapi.yaml"
+
+install_openapi = "go get -tool github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest"
+
