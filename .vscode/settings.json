@@ -1,0 +1,12 @@
+{
+    "java.jdt.ls.java.home": "/home/bien/.local/share/mise/installs/java/19.0.1",
+    "java.import.gradle.java.home": "/home/bien/.local/share/mise/installs/java/19.0.1",
+    "go.goroot": "/home/bien/.local/share/mise/installs/go/1.25.1",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/home/bien/.local/share/mise/shims/node"
+    },
+    "python.defaultInterpreterPath": "/home/bien/.local/share/mise/installs/python/3.13.7/bin/python",
+    "go.alternateTools": {
+        "go": "/home/bien/.local/share/mise/shims/go"
+    }
+}
